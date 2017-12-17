@@ -148,6 +148,15 @@ div {
   opacity: 1;
 }
 
+.user {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+  object-fit: cover;
+}
+
 /* GENERAL MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -178,3 +187,5 @@ div {
     border-color: transparent #6D33FF transparent transparent;
   }
 }
+
+ 

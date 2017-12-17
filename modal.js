@@ -20,9 +20,6 @@ $('section.timeline').on('click','img',function(){
     captionText.text(caption);
     // captionText.innerHTML = this.alt;
 });
-// img.onclick = function(){
-    
-// }
 
 // Get the <span> element that closes the modal
 var span = $(".close");
